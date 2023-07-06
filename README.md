@@ -1,6 +1,12 @@
 # npxCard
 My personal npx business card. 
-# Output:
+## Usage:
+```js
+npx 047pegasus
+```
+That's it you get the card directly!!
+
+## Output:
 <pre>
 <span style="color:#26A269">   ╭───────────────────────────────────────────────────────────╮</span>
 <span style="color:#26A269">   │                                                           │</span>
